@@ -57,7 +57,7 @@ ALGORITHM:
 
 PROGRAM:
 
-
+```
      #include<stdio.h>
      int main()
       {
@@ -101,7 +101,7 @@ PROGRAM:
         printf("\n--------------------------------------------------------------");
          printf("\n Average waiting time is %5.2f\n average tat is%5.2f",awt,atat); }
 
-
+```
 OUTPUT:
 
 
